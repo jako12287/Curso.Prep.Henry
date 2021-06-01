@@ -1,0 +1,27 @@
+Variables
+
+Se puede decir que son recipiaentes que almacenas algun tipo de informacion 
+y se pueden invocar cada vez que se necesite
+
+Strings
+
+Se cataloga como un tipo de dato, que es una lina de texto y siempre va entre comiilas, ejemplo: 'Texto'
+
+Funciones (argumentos, return)
+
+Las funciones: son procesos establecidos para agrupar codigos, y se crean segun la necesidad, se utiliza para hacer tareas repetitivas.
+Argumentos: son expresiones por las cuales pasamos informacion a la funcion por ejemplo una variable   
+Return: es una sentencia que da por finalizada una funcion y devuleve algun dato.
+
+
+Declaraciones if
+
+Esta declaracion se usa como una condicional en el codigo, ejemplo: Si tal valor se cumple puede hacer tal otra
+
+
+
+
+Valores booleanos (true, false)
+
+Un valor booleano solo tiene dos alternativas True o False es decir 1 o 0, pasa o no la informacion.
+
