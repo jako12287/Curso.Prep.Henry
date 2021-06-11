@@ -1,0 +1,4 @@
+arrays
+
+se comporta como un recipiente con varias divisiones, en las cuales se pueden contener cualquier cantidad de elementos y de varios tipos
+se comporta como una biblioteca en donde podemos acceder por medio de un indice
