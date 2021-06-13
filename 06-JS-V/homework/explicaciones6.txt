@@ -1,0 +1,3 @@
+1. Prototype: Es la propiedad que tienen los objetos por defecto que ayuda a que los objetos hereden funciones de otros.
+
+2.Constructor: Es un metodo que ayuda a inicializar un objeto en una clase.

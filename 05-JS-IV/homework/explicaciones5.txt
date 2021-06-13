@@ -1,0 +1,6 @@
+1.Objetos: Son una agrupacion de propiedades las cuales constan de una palabra clave y un valor.
+2.Propiedades: Es una asociacion que se hace entre una palabara y un valor.
+3.Métodos: Se le llama metodos a las funciones que son una propiedad de un objeto.
+4.Bucle for…in: Es una instruccion que se repite las veces necesarias hasta encontrar una valor false.
+5.Notación de puntos vs notación de corchetes: la notacion de puntos ayuda a escribir mas rapidamente y a leer de la misma forma, la notacion de corchetes
+  ayuda a acceder a propiedades con nombres almacenados en una variable.  

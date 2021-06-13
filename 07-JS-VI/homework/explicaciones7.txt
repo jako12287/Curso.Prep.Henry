@@ -1,0 +1,1 @@
+1.Funciones Callback: Son fuciones que se usan como parametros en otras funciones y se ejecutan.
