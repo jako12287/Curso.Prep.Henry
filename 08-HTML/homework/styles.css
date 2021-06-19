@@ -1,0 +1,25 @@
+h1 {
+    color: red;
+}
+img {
+    width: 400px;
+    height: 400px;
+}
+[imagen="segunda"] {
+    width: 200px;
+    height: 200px;
+}
+#thirdDiv {
+    width: 500px;
+    height: 600px;
+    background-color: salmon;
+    padding: 50px;
+    border-width: 10px;
+    border-color: black;
+}
+span {
+    font-size: 18px;
+}
+#spanId {
+    margin: 50px;
+}
